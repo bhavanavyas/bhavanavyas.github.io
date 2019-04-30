@@ -1,2 +1,2 @@
 # Pari-Udaan
-https://pratikdaigavane.github.io
+https://bhavanavyas.github.io
